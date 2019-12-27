@@ -20,5 +20,12 @@ namespace GitHubTestProject
         
         return "This is a testing method";
         }
+        
+        private string IsUserAliveSession()
+        {
+         string abc = "0";
+         return abc;
+        }
+        
     }
 }
