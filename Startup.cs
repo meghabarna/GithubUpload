@@ -7,6 +7,7 @@ namespace GitHubTestProject
     public partial class Startup {
         public void Configuration(IAppBuilder app) {
             ConfigureAuth(app);
+            //This is the tesing project;
         }
     }
 }
