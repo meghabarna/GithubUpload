@@ -1,0 +1,5 @@
+insert into table
+(Id,
+Name)
+values
+(11, 'Test')
